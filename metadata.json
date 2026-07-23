@@ -1,0 +1,6 @@
+{
+  "name": "D SALON | Luxury Beauty Salon Noida",
+  "description": "D SALON is a luxury beauty parlour in Sector 18 Noida offering premium hair, skin, facial, makeup, nail care and bridal services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
